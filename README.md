@@ -1,62 +1,43 @@
-body {
-  font-family: 'Poppins', sans-serif;
-  background-color: #FFD700; /* fundo amarelo */
-  color: #003366; /* azul escuro para texto */
-  margin: 0;
-  padding: 0;
-}
+# Chaveiro Futuro 🔐
 
-header {
-  text-align: center;
-  padding: 2rem;
-  background-color: #fff;
-}
+Site institucional para serviços de chaveiro 24h e limpeza de caixas d'água, com foco em atendimento rápido e visual moderno.
 
-header img {
-  max-width: 400px;
-  margin-top: 1rem;
-}
+## 📌 Objetivo
 
-.frase-impacto {
-  font-size: 1.2rem;
-  font-weight: bold;
-}
+Criar uma página simples e funcional para divulgar os serviços de um chaveiro, com seções informativas, botões de ação e layout responsivo.
 
-.legenda {
-  font-style: italic;
-  margin-top: 1rem;
-}
+## 🛠️ Tecnologias utilizadas
 
-.servico {
-  padding: 2rem;
-  border-bottom: 1px solid #ccc;
-}
+- HTML
+- CSS
+- JavaScript
+- Google Fonts (Poppins)
+- GitHub Pages (para deploy)
 
-.servico h2 {
-  color: #D32F2F;
-}
+## 📁 Estrutura do projeto
 
-.botao {
-  display: inline-block;
-  margin-top: 1rem;
-  padding: 0.8rem 1.2rem;
-  text-decoration: none;
-  font-weight: bold;
-  border-radius: 5px;
-}
+- `index.html`: Página principal com apresentação dos serviços
+- `sobre.html`: Página com informações adicionais
+- `style.css`: Estilização visual do site
+- `script.js`: Scripts básicos para interação
+- `.github/workflows/deploy.yml`: Configuração para deploy automático via GitHub Pages
 
-.vermelho {
-  background-color: #D32F2F;
-  color: #fff;
-}
+## 🚀 Como visualizar
 
-.azul {
-  background-color: #003366;
-  color: #fff;
-}
+O site está hospedado via GitHub Pages:  
+👉 [Acesse aqui](https://fabiosoftware.github.io/chaveiro-futuro/)
 
-.branco {
-  background-color: #fff;
-  color: #D32F2F;
-  border: 2px solid #D32F2F;
-}
+## 📷 Preview
+
+![preview do site](https://fabiosoftware.github.io/chaveiro-futuro/imagem-preview.png)  
+*(Adicione uma imagem se quiser mostrar como o site aparece)*
+
+## 📌 Status do projeto
+
+✅ Finalizado — pronto para ser usado como modelo de site institucional simples.
+
+## 📇 Autor
+
+Fabio Coelho e Moura  
+🔗 [LinkedIn](https://linkedin.com/in/fabio-coelho-de-moura-93015128b)  
+💻 [GitHub](https://github.com/fabiosoftware)
